@@ -1,0 +1,5 @@
+c:\users\pop\documents\visual studio 2013\Projects\POSReader\POSReader\bin\Debug\POSReader.dll
+c:\users\pop\documents\visual studio 2013\Projects\POSReader\POSReader\bin\Debug\POSReader.pdb
+c:\users\pop\documents\visual studio 2013\Projects\POSReader\POSReader\obj\Debug\POSReader.csprojResolveAssemblyReference.cache
+c:\users\pop\documents\visual studio 2013\Projects\POSReader\POSReader\obj\Debug\POSReader.dll
+c:\users\pop\documents\visual studio 2013\Projects\POSReader\POSReader\obj\Debug\POSReader.pdb
